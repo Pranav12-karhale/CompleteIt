@@ -1,8 +1,10 @@
 <div align="center">
   <h1 align="center">✨ CompleteIt - To-Do List</h1>
-  <h2 align="center">https://completeit-8mnv.onrender.com</h2>
+  
+  # [Want to manage your tasks >>](https://completeit-8mnv.onrender.com)
+  
   <p>A sleek, dark-themed, and containerized task management web application.</p>
-
+  
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -24,8 +26,6 @@ The **CompleteIt** is a beautifully designed, lightweight web application that h
 - **Task Management:** Easily add new tasks, mark them as completed with a strike-through, or delete them.
 - **Zero Dependencies:** Built entirely with vanilla HTML, CSS, and JavaScript.
 
-3. **View the App**:
-   Open your browser and navigate to [http://localhost:8080](http://localhost:8080).
 
 ## 📂 Project Structure
 
